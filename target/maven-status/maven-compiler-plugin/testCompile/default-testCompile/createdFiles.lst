@@ -1,0 +1,10 @@
+DataJuridica\report\ConsoleLogs.class
+DataJuridica\utils\Utils.class
+DataJuridica\actions\ValidarResponse.class
+DataJuridica\report\ExtentHtml.class
+DataJuridica\TS01_BackEnd\Test_TC02_ValidarRegistro_NoEncontrado.class
+DataJuridica\request\Request_DataJuridica.class
+DataJuridica\TS01_BackEnd\Test_TC01_ValidarRegistro_Encontrado.class
+DataJuridica\Launcher.class
+DataJuridica\utils\JsonParser.class
+DataJuridica\report\Report.class
